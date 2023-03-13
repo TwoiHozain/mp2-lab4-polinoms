@@ -1,0 +1,11 @@
+D:/Programs/CPlusPlus/Lab/mp2-lab4-polinoms - 1/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/Programs/CPlusPlus/Lab/mp2-lab4-polinoms - 1/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/Programs/CPlusPlus/Lab/mp2-lab4-polinoms - 1/out/build/x64-Debug/samples/CMakeFiles/polinoms.dir
+D:/Programs/CPlusPlus/Lab/mp2-lab4-polinoms - 1/out/build/x64-Debug/samples/CMakeFiles/edit_cache.dir
+D:/Programs/CPlusPlus/Lab/mp2-lab4-polinoms - 1/out/build/x64-Debug/samples/CMakeFiles/rebuild_cache.dir
+D:/Programs/CPlusPlus/Lab/mp2-lab4-polinoms - 1/out/build/x64-Debug/test/CMakeFiles/polinoms_test.dir
+D:/Programs/CPlusPlus/Lab/mp2-lab4-polinoms - 1/out/build/x64-Debug/test/CMakeFiles/edit_cache.dir
+D:/Programs/CPlusPlus/Lab/mp2-lab4-polinoms - 1/out/build/x64-Debug/test/CMakeFiles/rebuild_cache.dir
+D:/Programs/CPlusPlus/Lab/mp2-lab4-polinoms - 1/out/build/x64-Debug/gtest/CMakeFiles/gtest.dir
+D:/Programs/CPlusPlus/Lab/mp2-lab4-polinoms - 1/out/build/x64-Debug/gtest/CMakeFiles/edit_cache.dir
+D:/Programs/CPlusPlus/Lab/mp2-lab4-polinoms - 1/out/build/x64-Debug/gtest/CMakeFiles/rebuild_cache.dir
