@@ -235,7 +235,21 @@ Polynom::Polynom(std::string str)
 		throw std::invalid_argument("Incorrect entry string");
 
 	for (int i = 0; i < vStr.size(); i++)
-		monoms.Append(Monom(vStr[i]));
+	{
+		bool isMonomUnique = true;
+		Monom m(vStr[i]);
+		for (auto iter = monoms.begin(); iter != monoms.end() && isMonomUnique; iter++)
+		{
+			if ((*iter).IsPowEqual(m))
+			{
+				(*iter) = (*iter) + m;
+				isMonomUnique = false;
+			}
+		}
+
+		if (isMonomUnique)
+			monoms.Append(Monom(vStr[i]));
+	}
 }
 
 Polynom::Polynom(const Polynom& p)
